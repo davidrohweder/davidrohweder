@@ -1,118 +1,101 @@
-<h1 align="center">
-  Hi, Nice to meet you.
-</h1>
-<h3 align="center">
-  My name is David, and my passion for software extends well beyond my working hours.
-</h3>
-
 <div align="center">
-  <img src="divider1.png" alt="divider"/>
-</div> 
-
-<h3 align="center"><img src="code.gif" height="20"/> Tech & Tools</h3>
-
-<div align="center" style="witdh:100%"> 
-  <table>
-    <tr>
-      <td valign="center" width="100px"><b>Frontend<b></td>
-      <td valign="center" width="100px"><b>Backend<b></td>
-      <td valign="center" width="100px"><b>Dev<b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/HTML-blue" /> 
-        <img src="https://img.shields.io/badge/CSS-blue" />
-        <img src="https://img.shields.io/badge/JavaScript-blue" /> 
-        <img src="https://img.shields.io/badge/TypeScript-blue" />
-        <img src="https://img.shields.io/badge/React-blue" /> 
-        <img src="https://img.shields.io/badge/Vue-blue" /> 
-        <img src="https://img.shields.io/badge/Angular-blue" /> 
-        <img src="https://img.shields.io/badge/Bootstrap-blue" /> 
-        <img src="https://img.shields.io/badge/Tailwind-blue" /> 
-        <img src="https://img.shields.io/badge/Next-blue" /> 
-        <img src="https://img.shields.io/badge/Nuxt-blue" /> 
-        <img src="https://img.shields.io/badge/SwiftUI (objc)-blue" /> 
-        <img src="https://img.shields.io/badge/Chart.js-blue" />
-      </td>      
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Django-blue" /> 
-        <img src="https://img.shields.io/badge/Python-blue" /> 
-        <img src="https://img.shields.io/badge/Selenium-blue" />        
-        <img src="https://img.shields.io/badge/Ruby-blue" /> 
-        <img src="https://img.shields.io/badge/Rails-blue" /> 
-        <img src="https://img.shields.io/badge/BeautifulSoup-blue" /> 
-        <img src="https://img.shields.io/badge/Pandas-blue" /> 
-        <img src="https://img.shields.io/badge/Numpy-blue" /> 
-        <img src="https://img.shields.io/badge/Flask-blue" /> 
-        <img src="https://img.shields.io/badge/PHP-blue" /> 
-        <img src="https://img.shields.io/badge/Laravel-blue" /> 
-        <img src="https://img.shields.io/badge/Node.js-blue" /> 
-        <img src="https://img.shields.io/badge/Express-blue" /> 
-        <img src="https://img.shields.io/badge/Nest.js-blue" /> 
-      </td>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/AWS-blue" /> 
-        <img src="https://img.shields.io/badge/CI/CD-blue" /> 
-        <img src="https://img.shields.io/badge/Docker-blue" /> 
-        <img src="https://img.shields.io/badge/TDD-blue" /> 
-        <img src="https://img.shields.io/badge/Jira-blue" /> 
-        <img src="https://img.shields.io/badge/Tezos-blue" /> 
-        <img src="https://img.shields.io/badge/MySQL-blue" /> 
-        <img src="https://img.shields.io/badge/NoSQL-blue" /> 
-        <img src="https://img.shields.io/badge/MongoDB-blue" /> 
-        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
-      </td>
-    </tr>
-  </table>
-  
- <table>
-    <tr>
-      <td valign="center" width="100px"><b>Blockchain<b></td>
-      <td valign="center" width="100px"><b>Design<b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Web3.js-blue" /> 
-        <img src="https://img.shields.io/badge/Solidity-blue" /> 
-        <img src="https://img.shields.io/badge/Ethers.js-blue" /> 
-        <img src="https://img.shields.io/badge/Solana-blue" /> 
-        <img src="https://img.shields.io/badge/Golang-blue" /> 
-        <img src="https://img.shields.io/badge/Rust-blue" /> 
-        <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
-        <img src="https://img.shields.io/badge/Bitcoin-blue" />
-      </td>
-     <td valign="center" align="center" width="300px">
-       <img src="https://img.shields.io/badge/Photoshop-blue" /> 
-       <img src="https://img.shields.io/badge/Adobe XD-blue" /> 
-       <img src="https://img.shields.io/badge/Figma-blue" /> 
-       <img src="https://img.shields.io/badge/Blender-blue" /> 
-       <img src="https://img.shields.io/badge/WebGL-blue" /> 
-       <img src="https://img.shields.io/badge/Three.js-blue" /> 
-      </td>
-    </tr>
-  </table>
+  <img src="assets/hero.svg" width="900" alt="David Rohweder — Software Engineer at Iridium. Building automated systems, CI/CD, and full-stack apps over the world's largest commercial satellite network. Phoenix, AZ.">
 </div>
 
 <div align="center">
-  <img src="divider1.png" alt="divider"/>
-</div> 
+  <a href="https://davidrohweder.com"><img src="https://img.shields.io/badge/Website-davidrohweder.com-5b8cff?style=flat-square&labelColor=0a0b0d" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/davidrohweder"><img src="https://img.shields.io/badge/LinkedIn-0e1014?style=flat-square&labelColor=0a0b0d" alt="LinkedIn"></a>
+  <a href="https://github.com/davidrohweder"><img src="https://img.shields.io/badge/GitHub-0e1014?style=flat-square&labelColor=0a0b0d" alt="GitHub"></a>
+  <a href="https://davidrohweder.com/David-Rohweder-Resume.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-0e1014?style=flat-square&labelColor=0a0b0d" alt="Résumé"></a>
+  <a href="mailto:david01rohweder@gmail.com"><img src="https://img.shields.io/badge/Email-0e1014?style=flat-square&labelColor=0a0b0d" alt="Email"></a>
+</div>
 
-<!-- <p align="center">
-  <a href="mailto:naruhitokaide@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/wDpwy4t21eVg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/naruhitokaide" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://naruhito-kaide.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
-  
-</p> -->
+---
 
-<h2 align="center"> Thanks for visiting my profile. </h2>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+### `01` · About
 
+Software engineer at **Iridium**, where I build automated test suites, CI/CD pipelines, and full-stack applications that operate over a global satellite network. I care about clean systems, fast feedback loops, and tools other engineers actually want to use.
 
+AWS and Terraform certified; currently pursuing graduate studies in computer science at **Georgia Tech**.
 
-### [View my resume](https://github.com/davidrohweder/davidrohweder.github.io/blob/master/resume/David%20Rohweder%20Resume.pdf)
+Off the clock: hiking the Southwest, training Muay Thai, or chasing good food somewhere new.
+
+---
+
+### `02` · Experience
+
+**Software Engineer** · Iridium &nbsp;—&nbsp; *Phoenix, AZ* &nbsp;·&nbsp; `Jul 2023 – Present`
+- Engineered automated test suites in Python on AWS for applications serving a global satellite network.
+- Built CI/CD pipelines with AWS, Terraform, and Docker, improving testing efficiency across teams.
+- Developed full-stack applications with React, Django, Redis, DynamoDB, and MySQL, adopted by multiple teams.
+
+**Systems Engineer** · Rosenberger North America &nbsp;—&nbsp; *Akron, PA* &nbsp;·&nbsp; `May 2019 – Aug 2022`
+- Optimized production workflows **4×** by integrating Azure and ERP systems across departments.
+- Improved SysAdmin automation **80%** through ManageEngine server deployments and custom scripting.
+- Supported business continuity on the disaster-recovery team managing a multi-site vSphere environment.
+
+**Software Developer** · [Expeditionary Interest Group](https://github.com/EIGpennyhelper) &nbsp;—&nbsp; *Leesport, PA* &nbsp;·&nbsp; `Sep 2018 – Dec 2020`
+- Lead architect for the copyrighted Penny Helper software used by several nonprofits.
+- Grew revenue **30%** in v3.5 by mining ETH and XMR on constituents' idle compute.
+- Cut release turnaround **40%** with Agile practices and a self-updating installer.
+
+---
+
+### `03` · Selected Work
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **InclusiScore** <sub>HackPSU · 2023</sub> | Credit-scoring backend reaching **96% prediction accuracy** on a scikit-learn linear-regression model, served from a Firebase backend. | `Python` `scikit-learn` `Pandas` `Firebase` |
+| **SolarLenz** <sub>iOS · App Store · 2022</sub> | Augmented-reality solar-system tour shipped to the App Store — orbit and inspect 3D planets with responsive hit-testing and hands-free speech commands. | `SwiftUI` `ARKit` `SceneKit` |
+| **Parallel Shortest-Path** <sub>2022</sub><br>[Source](https://github.com/davidrohweder/Dijkstra-BellmanFord) · [Results](https://github.com/davidrohweder/Dijkstra-BellmanFord/blob/master/Results-Analysis.pdf) | Parallelized Dijkstra and Bellman-Ford to **8× and 10× speedups** on a 20k×20k matrix across 20 cores of Penn State's Roar supercomputer. | `C++` `OpenMP` `PBS` |
+| **NittanyMarket** <sub>2022</sub> | Full e-commerce platform with a Jinja frontend and Flask REST APIs — seller publishing, buyer search and checkout, account management. | `Python` `Flask` `SQLite` |
+| **Linux FS Driver** <sub>2021</sub> | Userspace file-system driver replicating core OS operations (open/close, read/write, seek) with an LRU cache hitting a **~80% hit ratio**. | `C` `Network Programming` |
+
+---
+
+### `04` · Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0e1014?style=flat-square&labelColor=0a0b0d) ![C](https://img.shields.io/badge/C-0e1014?style=flat-square&labelColor=0a0b0d) ![C++](https://img.shields.io/badge/C%2B%2B-0e1014?style=flat-square&labelColor=0a0b0d) ![C#](https://img.shields.io/badge/C%23-0e1014?style=flat-square&labelColor=0a0b0d) ![Java](https://img.shields.io/badge/Java-0e1014?style=flat-square&labelColor=0a0b0d) ![JavaScript](https://img.shields.io/badge/JavaScript-0e1014?style=flat-square&labelColor=0a0b0d) ![Swift](https://img.shields.io/badge/Swift-0e1014?style=flat-square&labelColor=0a0b0d) ![SQL](https://img.shields.io/badge/SQL-0e1014?style=flat-square&labelColor=0a0b0d)
+
+**Frameworks &amp; Libraries**
+
+![React](https://img.shields.io/badge/React-0e1014?style=flat-square&labelColor=0a0b0d) ![Django](https://img.shields.io/badge/Django-0e1014?style=flat-square&labelColor=0a0b0d) ![Flask](https://img.shields.io/badge/Flask-0e1014?style=flat-square&labelColor=0a0b0d) ![Node.js](https://img.shields.io/badge/Node.js-0e1014?style=flat-square&labelColor=0a0b0d) ![Spring](https://img.shields.io/badge/Spring-0e1014?style=flat-square&labelColor=0a0b0d) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0e1014?style=flat-square&labelColor=0a0b0d) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0e1014?style=flat-square&labelColor=0a0b0d) ![OpenMP](https://img.shields.io/badge/OpenMP-0e1014?style=flat-square&labelColor=0a0b0d)
+
+**Cloud &amp; DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-0e1014?style=flat-square&labelColor=0a0b0d) ![Azure](https://img.shields.io/badge/Azure-0e1014?style=flat-square&labelColor=0a0b0d) ![Terraform](https://img.shields.io/badge/Terraform-0e1014?style=flat-square&labelColor=0a0b0d) ![Docker](https://img.shields.io/badge/Docker-0e1014?style=flat-square&labelColor=0a0b0d) ![Git](https://img.shields.io/badge/Git-0e1014?style=flat-square&labelColor=0a0b0d) ![Redis](https://img.shields.io/badge/Redis-0e1014?style=flat-square&labelColor=0a0b0d) ![DynamoDB](https://img.shields.io/badge/DynamoDB-0e1014?style=flat-square&labelColor=0a0b0d) ![Linux](https://img.shields.io/badge/Linux-0e1014?style=flat-square&labelColor=0a0b0d)
+
+**Practices** &nbsp; `TDD` · `CI/CD` · `Agile` · `IaC` · `OOP` · `MVC / MVVM` · `SDLC`
+
+---
+
+### `05` · Education & Credentials
+
+**Georgia Institute of Technology** &nbsp;—&nbsp; *Atlanta, GA* &nbsp;·&nbsp; `In progress`
+Graduate Studies · Computer Science — GPA 4.0
+
+**Pennsylvania State University** &nbsp;—&nbsp; *University Park, PA* &nbsp;·&nbsp; `2023`
+B.S. in Computer Science — GPA 3.46
+- Teaching Assistant for the Mobile Applications course.
+- Dean's List 6 of 8 semesters; Penn State Undergraduate Scholarship for Talented Students.
+- Active in ACM, HackPSU, and the Penn State Outing Club.
+
+**Certifications**
+
+![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS-Developer_Associate-0e1014?style=flat-square&labelColor=0a0b0d) ![HashiCorp Certified Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-0e1014?style=flat-square&labelColor=0a0b0d)
+
+**Awards** &nbsp; 1st Place — RACC Web Design Challenge (lead developer) · SkillsUSA PA Computer Programming (2nd 2018, 3rd 2019) · Penn State Undergraduate Scholarship for Talented Students.
+
+---
+
+<div align="center">
+  <sub><code>PHOENIX, AZ · 33.4484°N 112.0740°W</code></sub>
+  <br><br>
+  <a href="https://davidrohweder.com">Website</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/davidrohweder">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/davidrohweder">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://davidrohweder.com/David-Rohweder-Resume.pdf">Résumé</a> &nbsp;·&nbsp;
+  <a href="mailto:david01rohweder@gmail.com">david01rohweder@gmail.com</a>
+</div>

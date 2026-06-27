@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="David Rohweder — Software Engineer at Iridium. Building automated systems, CI/CD, and full-stack apps over the world's largest commercial satellite network. Phoenix, AZ.">
+  <defs>
+    <!-- radial periwinkle glow, top-center (reproduces body::before) -->
+    <radialGradient id="glow" cx="50%" cy="-8%" r="62%">
+      <stop offset="0%" stop-color="#5b8cff" stop-opacity="0.16"/>
+      <stop offset="55%" stop-color="#5b8cff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#5b8cff" stop-opacity="0"/>
+    </radialGradient>
+    <!-- mask: lattice densest at top-center, dissolving downward -->
+    <radialGradient id="latticeFade" cx="50%" cy="0%" r="78%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="48%" stop-color="#ffffff" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="fade">
+      <rect x="0" y="0" width="1200" height="360" fill="url(#latticeFade)"/>
+    </mask>
+    <!-- 64px coordinate grid lattice, tuned to the grid-line token -->
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="hairline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5b8cff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#5b8cff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#5b8cff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- own charcoal background: identical on light & dark themes -->
+  <rect x="0" y="0" width="1200" height="360" fill="#0a0b0d"/>
+  <!-- grid lattice, masked to dissolve downward -->
+  <rect x="0" y="0" width="1200" height="360" fill="url(#grid)" mask="url(#fade)"/>
+  <!-- radial periwinkle glow at top-center -->
+  <rect x="0" y="0" width="1200" height="360" fill="url(#glow)"/>
+
+  <!-- faint coordinate-field nodes at grid intersections (the only abstract orbital nod) -->
+  <g fill="#5b8cff">
+    <circle cx="704" cy="64" r="1.6" opacity="0.3">
+      <animate attributeName="opacity" values="0.1;0.4;0.1" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1088" cy="64" r="1.6" opacity="0.26">
+      <animate attributeName="opacity" values="0.08;0.36;0.08" dur="9s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="896" cy="128" r="1.4" opacity="0.22">
+      <animate attributeName="opacity" values="0.08;0.3;0.08" dur="8s" begin="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="960" cy="192" r="1.4" opacity="0.2">
+      <animate attributeName="opacity" values="0.06;0.26;0.06" dur="10s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- subtle border to read as a deliberate card -->
+  <rect x="0.5" y="0.5" width="1199" height="359" fill="none" stroke="#ffffff" stroke-opacity="0.07" stroke-width="1"/>
+  <!-- top accent hairline -->
+  <rect x="0" y="0" width="1200" height="1" fill="url(#hairline)"/>
+
+  <!-- STATUS PILL with single pulsing accent dot -->
+  <g transform="translate(72,70)">
+    <rect x="0" y="0" width="320" height="30" rx="15" fill="#101216" stroke="#ffffff" stroke-opacity="0.13"/>
+    <circle cx="20" cy="15" r="4" fill="#5b8cff">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="38" y="20" font-family="ui-monospace,'SF Mono','Cascadia Code',monospace" font-size="12" letter-spacing="2.2" fill="#a4a8b0">SOFTWARE ENGINEER · IRIDIUM</text>
+  </g>
+
+  <!-- NAME: huge, tight-tracked, system sans -->
+  <text x="70" y="186" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="78" font-weight="700" letter-spacing="-3" fill="#edeef0">David Rohweder</text>
+
+  <!-- ROLE LINE with one highlighted phrase -->
+  <text x="72" y="232" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="21" font-weight="400" fill="#a4a8b0">Building automated systems, CI/CD, and full-stack apps over the world's largest commercial <tspan fill="#5b8cff" font-weight="600">satellite network</tspan>.</text>
+
+  <!-- divider hairline above instrumentation footer -->
+  <rect x="72" y="280" width="1056" height="1" fill="#ffffff" fill-opacity="0.07"/>
+
+  <!-- MONO INSTRUMENTATION FOOTER: location · focus · certs · coordinates -->
+  <g font-family="ui-monospace,'SF Mono','Cascadia Code',monospace" font-size="12.5" letter-spacing="1">
+    <text x="72" y="312" fill="#868b94">LOC</text>
+    <text x="112" y="312" fill="#a4a8b0">Phoenix, AZ</text>
+
+    <text x="300" y="312" fill="#868b94">FOCUS</text>
+    <text x="356" y="312" fill="#a4a8b0">Distributed systems · Cloud · CI/CD</text>
+
+    <text x="700" y="312" fill="#868b94">CERT</text>
+    <text x="744" y="312" fill="#a4a8b0">AWS · Terraform</text>
+
+    <text x="940" y="312" fill="#868b94">COORD</text>
+    <text x="996" y="312" fill="#5b8cff">33.4484°N 112.0740°W</text>
+  </g>
+</svg>
