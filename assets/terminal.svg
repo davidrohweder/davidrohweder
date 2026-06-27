@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="Terminal: whoami — David Rohweder, software builder in Phoenix. A maker driven by curiosity, into desert trails, muay thai, and good tacos.">
+<rect x="0.5" y="0.5" width="1199" height="429" rx="12" fill="#0b0e14" stroke="rgba(255,255,255,0.08)"/>
+<path d="M0.5 12.5 a12 12 0 0 1 12 -12 H1187.5 a12 12 0 0 1 12 12 V46 H0.5 Z" fill="#0e1219"/>
+<line x1="0" y1="46" x2="1200" y2="46" stroke="rgba(255,255,255,0.08)"/>
+<circle cx="28" cy="23" r="6.5" fill="#ff5f57"/><circle cx="52" cy="23" r="6.5" fill="#febc2e"/><circle cx="76" cy="23" r="6.5" fill="#28c840"/>
+<text x="600" y="28" text-anchor="middle" font-family="ui-monospace,'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="13" fill="#6e7681">david@phoenix: ~</text>
+<text x="34" y="76" xml:space="preserve" font-family="ui-monospace,'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="16"><tspan fill="#3fb950">david@phoenix</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#56d4dd">~</tspan><tspan fill="#6e7681">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
+<text x="34" y="105" font-family="ui-monospace,'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="16" font-weight="600" fill="#e6edf3">David Rohweder · software builder · Phoenix, AZ</text>
+<text x="34" y="150" xml:space="preserve" font-family="ui-monospace,'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="16"><tspan fill="#3fb950">david@phoenix</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#56d4dd">~</tspan><tspan fill="#6e7681">$ </tspan><tspan fill="#e6edf3">cat about.md</tspan></text>
+<text x="34" y="179" font-family="ui-monospace,'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="16" fill="#7d8590"># builder · tinkerer · perpetually mid-side-project</text>
+<text x="34" y="208" font-family="ui-monospace,'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="16" fill="#adbac7">I write software for the love of it — the kind of curiosity that</text>
+<text x="34" y="237" font-family="ui-monospace,'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="16" fill="#adbac7">doesn't clock out at 5. I like making useful things, taking them</text>
+<text x="34" y="266" font-family="ui-monospace,'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="16" fill="#adbac7">apart to see how they tick, and systems that just quietly work.</text>
+<text x="34" y="311" font-family="ui-monospace,'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="16" fill="#7d8590"># off the keyboard</text>
+<text x="34" y="340" font-family="ui-monospace,'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="16" fill="#adbac7">desert trails, muay thai, and the hunt for the best taco in Phoenix.</text>
+<text x="34" y="385" xml:space="preserve" font-family="ui-monospace,'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="16"><tspan fill="#3fb950">david@phoenix</tspan><tspan fill="#6e7681">:</tspan><tspan fill="#56d4dd">~</tspan><tspan fill="#6e7681">$ </tspan></text>
+<rect x="201" y="372" width="10" height="18" fill="#3fb950"><animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></rect>
+</svg>
